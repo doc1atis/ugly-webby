@@ -24,11 +24,13 @@ textarea {
     margin: 30px;
     width: 300px;
     height: 150px;
+    background-color: brown
 }
 
 ul, ol {
     margin: 20px;
     padding: 0;
+    color: aquamarine
 }
 
 li {
